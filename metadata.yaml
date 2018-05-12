@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '681'
     url: http://www.gutenberg.org/2009/agents/681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17182#Within-the-Temple-of-Isis
 gutenberg_issued: '2005-11-29'
 gutenberg_type: Text
 identifiers:
